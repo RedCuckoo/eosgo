@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/Akagi201/eosgo/ecc"
+	"github.com/redcuckoo/eosgo/ecc"
 )
 
 /*

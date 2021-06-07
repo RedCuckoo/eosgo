@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Akagi201/eosgo/ecc"
-	"github.com/Akagi201/eosgo/types"
+	"github.com/redcuckoo/eosgo/ecc"
+	"github.com/redcuckoo/eosgo/types"
 	"github.com/stretchr/testify/assert"
 )
 

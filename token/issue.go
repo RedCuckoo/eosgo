@@ -1,7 +1,7 @@
 package token
 
 import (
-	"github.com/Akagi201/eosgo/types"
+	"github.com/redcuckoo/eosgo/types"
 )
 
 func NewIssue(to types.AccountName, quantity types.Asset, memo string) *types.Action {
